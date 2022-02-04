@@ -1,0 +1,64 @@
+# Senior Checklist
+✔️ Checklist for self-assessing my excellence and seniority
+
+- [ ] Understand the business aspect of your work, and what makes money. Eventually, only that matters.
+- [ ] Get involved with hiring for your team and company, and maintain a high bar for hiring quality candidates.
+- [ ] Design and develop systems appropriate to scale, extensibility, and scope of the problem. Avoid over-engineering.
+- [ ] Question everything and ask "why" repetitively until you get to the root of problems and situations.
+- [ ] Demand accountability and ownership from others.
+- [ ] Once you understand the company's needs, lead at least one high-impact project with a clear definition and target of successful delivery.
+- [ ] Work towards disambiguating ambiguous problem statements.
+- [ ] Cultivate relationships with other teams and develop trust.
+- [ ] Do not be adamant about your views. Listen to others and accept that there is more than one way to look at a problem statement, and multiple valid solutions to a problem.
+- [ ] Be involved with multiple projects as a consultant, a reviewer and/or a mentor.
+- [ ] Follow the principles of extreme ownership.
+- [ ] Have strong mentors to help you navigate and grow in the company.
+- [ ] Take projects with high risk and high rewards.
+- [ ] Strive for deep technical expertise in technologies used in your team.
+- [ ] Ask for stretch projects from your manager, or help him/her identify one for you.
+- [ ] Discuss the goals of your manager, and how you align your work with it.
+- [ ] Invest time in networking effectively with seniors, peers, and juniors.
+- [ ] Be a mentor to a couple of junior engineers.
+- [ ] Increase your breadth of knowledge in the domain of your team/company.
+- [ ] Drive your one-on-ones. Maintain a list of topics for the next one-on-one discussion.
+- [ ] Discuss problems with your manager, but have some solutions beforehand.
+- [ ] Increase your breadth of knowledge in technology.
+- [ ] Explore emerging technologies by building small prototypes.
+- [ ] Read a few technical books every year.
+- [ ] Before suggesting the next big shiny technology for your production stack, understand its pros and cons thoroughly.
+- [ ] Schedule a regular one-on-one with your manager.
+- [ ] Schedule a regular one-on-one with your skip level manager.
+- [ ] One-on-one usually is not a status meeting.
+- [ ] Involve the manager in your personal life (just a little though).
+- [ ] Actively seek feedback from your manager.
+- [ ] Keep your manager up-to-date in things you are involved with, but don't get bogged down in unnecessary details.
+- [ ] Keep your manager up-to-date in things you are blocked on.
+- [ ] Keep your manager up-to-date on people you have difficulty working with.
+- [ ] Give constructive feedback to your manager.
+- [ ] If you are overworked, let your manager know.
+- [ ] If you are under-utilized, ask your manager for areas to explore.
+- [ ] If you have an ineffective or neglectful manager, talk to your manager about your expectations.
+- [ ] If you have a micromanager, talk to your manager about your expectations.
+- [ ] If you have an abusive manager, talk to your skip manager or HR with data points.
+- [ ] If you have an ineffective skip manager and ineffective manager, switch the team or company.
+- [ ] If you do not have a cordial relationship with your manager, switch the team or company.
+- [ ] Leverage = impact produced / time invested. Use leverage as a yardstick for effectiveness.
+- [ ] Measure what you want to improve. Make efforts measurable.
+- [ ] Maintain high visibility of projects which have a high risk.
+- [ ] To deal with difficult folks, discuss with your managers and mentors.
+- [ ] To deal with difficult folks, fall back to first principles.
+- [ ] Be reachable to other engineers.
+- [ ] Have a huge bias for action and delivery, but do not over-compromise on quality. Push back if required.
+- [ ] Simplify code, systems, and architectures relentlessly.
+- [ ] Demand high-quality work from others, but be pragmatic.
+- [ ] Prioritize fixing tech-debt in code, systems, and architecture when the incremental cost to develop keeps rising.
+- [ ] Document extensively, and demand it from others. Document "why" more than "how".
+- [ ] Avoid politics, but have right folks vouch for your work.
+- [ ] When dealing with politics, fall back to first principles.
+- [ ] If politics thrives due to team or company culture, switch.
+- [ ] Try not to get involved in office gossip.
+- [ ] Avoid stretching yourself too thin to be effective.
+- [ ] Respect code and systems that came before you. There are reasons for every code and every guard that exists in production.
+- [ ] Before you suggest major refactors, ensure you understand the system deeply.
+- [ ] Resist the urge to refactor major systems to achieve simplification, because there's a risk you will end up with a similarly complex system after some time.
+
